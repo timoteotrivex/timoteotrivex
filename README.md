@@ -12,6 +12,7 @@ todo el flujo de análisis de datos.
 - 🗄️ [SQL Server Portfolio — AdventureWorks](https://github.com/timoteotrivex/sql-server-adventureworks-portfolio) — consultas SQL organizadas por pregunta de negocio
 - ⚽ [World Cup SQL Analysis](https://github.com/timoteotrivex/world-cup-sql-analysis) — análisis end-to-end con JOINs, CTEs y window functions
 - 📊 Power BI Dashboards *(próximamente)*
+-     E commerce - POWER BI / DAX
 
 **📫 Contacto**
 [LinkedIn](https://www.linkedin.com/in/timotrive42)
